@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(20 + 8)
+	fmt.Println(20 + 20)
 }
